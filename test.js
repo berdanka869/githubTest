@@ -1,3 +1,6 @@
-function name(guide){
+function name(params){
     //fsnfkjbfsd
+}
+function guide(){
+    //dfmalkfjdlf
 }
